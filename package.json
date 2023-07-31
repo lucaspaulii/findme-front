@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@googlemaps/js-api-loader": "^1.16.2",
     "@types/jsonwebtoken": "^9.0.2",
     "axios": "^1.4.0",
     "buffer": "^6.0.3",
