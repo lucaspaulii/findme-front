@@ -1,0 +1,27 @@
+{
+  "found": {
+    "1": "Localização Encontrada!",
+    "2": "Precisão: ",
+    "3": "Se sua localização estiver correta, clique para enviar.",
+
+    "4": "Caso contrário, ajuste-a arrastando o mapa abaixo",
+
+    "5": "(A localização será enviada automaticamente em 60s)",
+    "6": "ENVIAR",
+    "7": "Envio automático em ",
+    "meters": "metros",
+    "seconds": "s"
+  },
+  "drag": {
+    "1": "Selecionando posição manualmente...",
+    "2": "Clique enviar ao terminar.",
+    "3": "ENVIAR"
+  },
+  "location": {
+    "1": "Lembre-se de ligar o GPS",
+    "2": "Aguarde enquanto o localizamos"
+  },
+  "closed": {
+    "1": "Sua localização foi enviada com sucesso! Sinta-se à vontade para fechar essa página."
+  }
+}

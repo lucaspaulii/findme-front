@@ -1,0 +1,27 @@
+{
+    "found": {
+      "1": "Location Found!",
+      "2": "Accuracy: ",
+      "3": "If your location is correct, click to submit. ",
+  
+      "4": "Else, adjust by dragging the map bellow.",
+  
+      "5": "(The location will be sent automatically in 60s)",
+      "6": "SEND",
+      "7": "Automatic submission in ",
+      "meters": "meters",
+      "seconds": "s"
+    },
+    "drag": {
+      "1": "Selecting location manually...",
+      "2": "Press SEND when done.",
+      "3": "SEND"
+    },
+    "location": {
+      "1": "Reminder: Turn on the GPS",
+      "2": "Wait while we locate you"
+    },
+    "closed": {
+      "1": "Your location has been successfully sent! Feel free to close this page."
+    }
+}
